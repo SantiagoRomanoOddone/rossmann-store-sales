@@ -1,9 +1,9 @@
 # rossmann-store-sales
 
-El forecasting de demanda es un problema muy recurrente en la industria retail. Poder estimar cuánto volumen se va a operar en los siguientes d´ıas constituye una informaci´on crucial para
-poder atacar un montón de otros problemas dentro de la operatoria de una empresa: manejo de compras, organización de depósitos, calendarización de personal y maquinarias, decisiones
-de marketing, etc.
-En base a datos históricos de transacciones realizadas en un retailer, y sumando información contextual como variables sociales, económicas, de calendario, naturales; se puede obtener un
-gran poder predictivo sobre la demanda de ventas que va a tener un retailer en días venideros.
+Forecasting demand is a highly recurrent issue in the retail industry. Being able to estimate the volume of operations for the upcomping days constitutes crucial information to address many other issues within a company´s operations, such as: managing purchases, organizing warehoses, sheduling personnel and machinery, making marketing decisions, and more. 
 
-Datos: https://www.kaggle.com/competitions/rossmann-store-sales/data
+By levearging historical trnsaction data from retailer and incorporating contextual information such as social, economic, calendar, and environmental variables, it is possible to achive a high predictive power regarding the sales demand that a retailer will experience in the coming days.
+
+With the following code, I have reached a RMSPE of 0.1315 , being the best score up to now 0.1012.
+
+Data: https://www.kaggle.com/competitions/rossmann-store-sales/data
