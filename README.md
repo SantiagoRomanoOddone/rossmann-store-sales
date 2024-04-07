@@ -4,6 +4,6 @@ Forecasting demand is a highly recurrent issue in the retail industry. Being abl
 
 By levearging historical trnsaction data from retailer and incorporating contextual information such as social, economic, calendar, and environmental variables, it is possible to achive a high predictive power regarding the sales demand that a retailer will experience in the coming days.
 
-With the following code, I have reached a RMSPE of 0.1315 , being the best score up to now 0.1012.
+With the following code, I have reached a RMSPE of 0.1315.
 
 Data: https://www.kaggle.com/competitions/rossmann-store-sales/data
